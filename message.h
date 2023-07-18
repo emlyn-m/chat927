@@ -1,3 +1,5 @@
+#pragma once
+
 struct Message {
     int platform;
     int threadid;
